@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-  
+  dice = rand(5) + 1
 end
